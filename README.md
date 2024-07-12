@@ -18,4 +18,8 @@ How to update PS4 firmware manually
 ![-](imgs/update2.jpg)         
 10. In the following menu choose option 1. Update from USB Storage Device             
 ![-](imgs/update3.png)        
-11. Press *YES* and or *ACCEPT* to any addidional options          
+11. Press *YES* and or *ACCEPT* to any addidional options       
+             
+# You can then follow one of these other guides to jailbreak your console      
+1. [How to use a GUI tool to run PPPwn on Windows(https://github.com/DrYenyen/PPPwnGo-Guide)      
+2. [How to set up Raspberry-Pi on PS4 for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)    

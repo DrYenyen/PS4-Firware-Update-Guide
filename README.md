@@ -12,9 +12,10 @@ How to update PS4 firmware manually
 ![-](imgs/update.JPG)      
 5. Then paste the downloaded file inside the UPDATE folder            
 6. Plug the USB into your PS4      
-7. Turn your PS4 off and then hold down the power button untill you hear a second boot tune       
-8. Once in Safe mode choose option 3. Update System Software       
+7. Turn your PS4 off and then hold down the power button untill you hear a second boot tune      
+8. Connect your PS4 controller with a DATA TRASNFER capable micro usb cable and press the PS button       
+9. Once in Safe mode choose option 3. Update System Software       
 ![-](imgs/update2.jpg)         
-9. In the following menu choose option 1. Update from USB Storage Device             
+10. In the following menu choose option 1. Update from USB Storage Device             
 ![-](imgs/update3.png)        
-10. Press *YES* and or *ACCEPT* to any addidional options          
+11. Press *YES* and or *ACCEPT* to any addidional options          

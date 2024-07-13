@@ -21,5 +21,5 @@ How to update PS4 firmware manually
 11. Press *YES* and or *ACCEPT* to any addidional options       
              
 # You can then follow one of these other guides to jailbreak your console      
-1. [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)      
-2. [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)    
+# 1. [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)      
+# 2. [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)    

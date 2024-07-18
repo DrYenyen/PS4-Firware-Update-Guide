@@ -20,7 +20,9 @@ How to update PS4 firmware manually
 ![-](imgs/update3.png)        
 11. Press *YES* and or *ACCEPT* to any addidional options       
              
-# You can then follow one of these other guides to jailbreak your console      
-# 1. [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)      
-# 2. [How to set up Raspberry-Pi on Windows for PPPwn](https://github.com/DrYenyen/PPPwn-Setup-Guide-For-Raspberry-Pi)      
-# 3. [How-To-Use-Cheats-and-Patches-On-PS4](https://github.com/DrYenyen/How-To-Use-Goldhen-Cheats-and-Patches-On-PS4)      
+# You can then follow one of these other guides to jailbreak your console and etc   
+# 1. [Guides Thread](https://github.com/DrYenyen/Guide-Links-For-PS4)     
+# 2. [How to use a GUI tool to run PPPwn on Windows](https://github.com/DrYenyen/PPPwnGo-Guide)                                
+# 3. [How to install FPKGS](https://github.com/DrYenyen/How-To-Install-PS4-FPKGS)                        
+# 4. [How to set up PPPwn on a OpenWRT compatible router(by FalsePhilosopher)](https://github.com/FalsePhilosopher/PPPwnWRT)                     	 
+# 5. [How-To-Use-Cheats-and-Patches-On-PS4](https://github.com/DrYenyen/How-To-Use-Goldhen-Cheats-and-Patches-On-PS4)     

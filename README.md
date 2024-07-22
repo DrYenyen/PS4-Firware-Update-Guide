@@ -3,7 +3,7 @@ How to update PS4 firmware manually
            
 # What are firmware update and reinstall files              
 1. On the darthsternie website *Official Firmwares* are update files that let you update from for example firmware 9.50 to 9.60       
-2. On the darthsternie website *Recovery Firmwares* are firmware reinstalation/recovery files that wipe the console of all user data this option is used when replacing the HDD and you can stay on the same firmware you care currently on.
+2. On the darthsternie website *Recovery Firmwares* are firmware reinstalation/recovery files that wipe the console of all user data this option is used when replacing the HDD and you can stay on the same firmware you are currently on.
 # Downloading firmware                 
 1. Go to [Darthsternie](https://darthsternie.net/ps4-firmwares)             
 2. Download the firmware update version to which you want to update to          

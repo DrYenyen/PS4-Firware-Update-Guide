@@ -1,4 +1,4 @@
-# PS4-Firware-Update-Guide          
+# PS4-Firware-Update-or-Reinstall-Guide          
 How to update or reinstall ps4 firmware manually.           
            
 # What are firmware update and reinstall files              

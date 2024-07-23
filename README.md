@@ -1,5 +1,7 @@
 # PS4-Firware-Update-or-Reinstall-Guide          
-How to update or reinstall ps4 firmware manually.           
+How to update or reinstall ps4 firmware manually.     
+     
+System *Software* and *Firmware* are interchangable within the context of the PS4     
            
 # What are firmware update and reinstall files              
 1. On the darthsternie website *Official Firmwares* are update files that let you update from for example firmware 9.50 to 9.60       
@@ -30,7 +32,7 @@ How to update or reinstall ps4 firmware manually.
 6. Plug the USB into your PS4      
 7. Turn your PS4 off and then hold down the power button untill you hear a second boot tune      
 8. Connect your PS4 controller to the console with a DATA TRASNFER capable micro usb cable and press the PS button       
-9. Once in Safe mode choose option 7. Update System Software       
+9. Once in Safe mode choose option 7. Initialize PS4 (Reinstall System Software)          
 ![-](imgs/update2.jpg)         
 10. It will then ask you to connect(or already have connected) a USB stick with the minimum firware version possible (usually curent one you were on)          
 11. Press *OK* to continue and *ACCEPT* or *OK* to any addidional options             

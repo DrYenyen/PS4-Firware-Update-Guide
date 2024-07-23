@@ -24,7 +24,7 @@ System *Software* and *Firmware* are interchangable within the context of the PS
              
 # Downloading firmware and Reinstalling                   
 1. Go to [Darthsternie](https://darthsternie.net/ps4-firmwares)             
-2. Download the firmware recoery version for your PS4             
+2. Download the firmware recovery version for your PS4             
 3. Grab a USB flash drive and format it to EXFAT              
 4. Create the following folder path on the USB PS4/UPDATE    
 ![-](imgs/update.JPG)      

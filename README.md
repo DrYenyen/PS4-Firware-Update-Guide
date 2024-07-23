@@ -20,7 +20,7 @@ System *Software* and *Firmware* are interchangable within the context of the PS
 ![-](imgs/update2.jpg)         
 10. In the following menu choose option 1. Update from USB Storage Device             
 ![-](imgs/update3.png)        
-11. Press *YES* and or *ACCEPT* to any addidional options       
+11. Press *YES* and *NEXT* or *ACCEPT* to any addidional options       
              
 # Downloading firmware and Reinstalling                   
 1. Go to [Darthsternie](https://darthsternie.net/ps4-firmwares)             
